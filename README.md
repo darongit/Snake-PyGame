@@ -1,6 +1,6 @@
 # Snake in PyGame
 
-## What is purpose of this script
+## What was the purpose of writing this program
 My first mini project consisting of several files. I know that some parts can be hard to read, but for the first time it's not too bad and in the end it works and maybe I'm not objective, but the game is fun😁
 
 ## What it can do and what do you need
